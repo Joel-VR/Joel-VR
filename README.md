@@ -1,30 +1,29 @@
-## Hi there 👋
+## ¡Hola! 👋
 
-I'm Joel 👨‍💻  
-Systems and Informatics Engineering student passionate about building practical and creative software solutions.
+Soy **Augusto** 👨‍💻, estudiante de Ingeniería de Sistemas e Informática.  
+Me gusta convertir ideas, café y unas cuantas líneas de código en soluciones útiles (la mayoría de las veces sin romper producción 😅).
 
-- 🔭 I’m currently working on personal and academic projects focused on web development and databases  
-- 🌱 I’m currently learning more about backend development, system design, and emerging technologies  
-- 👯 I’m looking to collaborate on innovative projects, especially those with social impact  
-- 🤔 I’m looking for help with improving scalable architectures and best development practices  
-- 💬 Ask me about programming, databases, or anything related to tech  
-- 📫 How to reach me: (you can add your email or LinkedIn here)  
-- ⚡ Fun fact: I enjoy turning ideas into real and useful solutions  
-
----
-
-### 🚀 Technologies & Tools
-- 💻 Languages: Java, Python, JavaScript, SQL  
-- 🌐 Web: HTML, CSS, Node.js  
-- 🛢️ Databases: MySQL  
-- ⚙️ Tools: Git, GitHub, VS Code  
+- 🔭 Actualmente trabajo en proyectos personales y académicos relacionados con desarrollo web y bases de datos.
+- 🌱 Estoy aprendiendo más sobre backend, diseño de sistemas y tecnologías emergentes.
+- 🤝 Me interesa colaborar en proyectos innovadores, especialmente si generan un impacto positivo.
+- 🧠 Busco seguir mejorando en arquitecturas escalables y buenas prácticas de desarrollo.
+- 💬 Pregúntame sobre programación, bases de datos o cualquier tema tecnológico.
+- 📫 Puedes encontrarme en mi casa :D o escribirme a **vilcarosasjoel@gmail.com**.
+- ⚡ Dato curioso: disfruto tomar una idea aparentemente simple y convertirla en un proyecto con 47 pestañas abiertas.
 
 ---
 
-### 📊 GitHub Stats
-![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joel-VR&show_icons=true&theme=tokyonight)
+### 🚀 Tecnologías y herramientas
+
+- 💻 **Lenguajes:** Java, Php, JavaScript y SQL
+- 🌐 **Desarrollo web:** HTML, CSS y Node.js
+- 🛢️ **Bases de datos:** MySQL, PostgreSQL
+- ⚙️ **Herramientas:** Git, GitHub y VS Code
 
 ---
 
-### 💡 About me
-I like solving real-world problems through technology. I'm always learning and exploring new tools to improve my skills and build impactful projects.
+### 💡 Un poco sobre mí
+
+Me entusiasma resolver problemas reales con tecnología y crear software que sea práctico, creativo y fácil de usar. Siempre estoy explorando nuevas herramientas, aprendiendo algo distinto y buscando el siguiente reto.
+
+> “Si funciona, no lo toques… salvo que pueda quedar mejor.” 🚀
