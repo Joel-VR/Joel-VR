@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img height="150" src="https://media.giphy.com/media/L8CDd6LtySVG4AZHkz/giphy.gif" alt="Animated GIF" />
+  <img height="150" src="./cat.gif" alt="Luna, an animated cat" />
 </div>
 
 ###
