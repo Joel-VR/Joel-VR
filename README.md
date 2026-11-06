@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWloamVvem9keGRobXRhZDlkNjlkOHV2NWJmOG51bmpkNW10Mjl2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8CDd6LtySVG4AZHkz/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/L8CDd6LtySVG4AZHkz/giphy.gif" alt="Animated GIF" />
 </div>
 
 ###
@@ -61,9 +61,9 @@
 ###
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joel-VR/Joel-VR/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joel-VR/Joel-VR/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Joel-VR/Joel-VR/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joel-VR/Joel-VR/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joel-VR/Joel-VR/pacman-output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Joel-VR/Joel-VR/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
 ###
